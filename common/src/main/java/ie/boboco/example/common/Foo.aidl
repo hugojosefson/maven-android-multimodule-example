@@ -14,6 +14,6 @@
  * limitations under the License.
  */
 
- package ie.boboco.example.common;
+package ie.boboco.example.common;
 
 parcelable Foo;
