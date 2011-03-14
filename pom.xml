@@ -78,15 +78,6 @@
                     <deleteConflictingFiles>false</deleteConflictingFiles>
                     <undeployBeforeDeploy>true</undeployBeforeDeploy>
                 </configuration>
-                <executions>
-                    <execution>
-                        <id>generate-sources</id>
-                        <phase>generate-sources</phase>
-                        <goals>
-                            <goal>generate-sources</goal>
-                        </goals>
-                    </execution>
-                </executions>
                 <extensions>true</extensions>
             </plugin>
             <plugin>
